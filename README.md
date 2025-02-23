@@ -17,14 +17,14 @@ This project is a dynamic form builder using PHP and Material UI, enabling the c
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/material-ui-form-builder.git
-   cd material-ui-form-builder
+   git clone https://github.com/ildrm/mui-php-form-builder.git
+   cd mui-php-form-builder
    ```
 
 2. **Set Up Directory Structure**:
     The project should have the following structure:
     ```text
-    material-ui-form-builder/
+    mui-php-form-builder/
     ├── assets/
     │   ├── css/
     │   │   └── style.css
@@ -37,7 +37,7 @@ This project is a dynamic form builder using PHP and Material UI, enabling the c
 
 3. **Run the Project**:
 - Place the project on a local web server (e.g., `XAMPP` or `WAMP`).
-- Open index.php in your browser (e.g., `http://localhost/material-ui-form-builder/index.php`).
+- Open index.php in your browser (e.g., `http://localhost/mui-php-form-builder/index.php`).
 
 ## Usage
 1. **Creating a Form**: In `index.php`, instantiate the `FormBuilder` class and add desired elements:
